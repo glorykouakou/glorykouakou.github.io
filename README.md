@@ -16,7 +16,7 @@ I am a self-taught enthusiast in mathematics, logic, and computer science. This 
 
 ## About Me
 
-This portfolio is a testament to my dedication to continuous learning and a passion for logical rigor.
+This portfolio is a testament to my dedication to continuous learning and a passion for sience
 
 ---
 
