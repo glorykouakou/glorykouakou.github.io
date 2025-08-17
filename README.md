@@ -6,7 +6,7 @@ I am a self-taught enthusiast in mathematics, logic, and computer science. This 
 
 ---
 
-## Featured Projects
+## Projects
 
 - **Notes on "How to Prove It"**:
   A self-study project where I document my progress through Daniel J. Velleman's influential book on mathematical logic.
@@ -14,7 +14,7 @@ I am a self-taught enthusiast in mathematics, logic, and computer science. This 
 
 ---
 
-## About Me
+## Goal
 
 This portfolio is a testament to my dedication to continuous learning and a passion for sience
 
