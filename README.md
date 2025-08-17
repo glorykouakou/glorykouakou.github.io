@@ -8,9 +8,9 @@ I am a self-taught enthusiast in mathematics, logic, and computer science. This 
 
 ## Projects
 
-- **Notes on "How to Prove It"**:
-  A self-study project where I document my progress through Daniel J. Velleman's influential book on mathematical logic.
-  - **View Project**: [Notes on "How to Prove It"](https://github.com/glorykouakou/Notes-How-to-Prove-It)
+- **Notes on Books**:
+  A self-study project where I document my progress through mathematical books
+  - **View Project**: [Notes on Books](https://github.com/glorykouakou/Notes-On-Books))
 
 ---
 
